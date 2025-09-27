@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.simple {
+    padding: 10px;
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+}
+
+.main {
+    color: black;
+}
+
+.box {
+    height: 30px;
+    width: 20px;
+}
+
+.text-danger {
+    font-family: Consolas;
+    color: red;
+
+}
+
+.card {
+    padding: 30px;
+    margin: 30px;
+}
+
+.card1 {
+    padding: 1px;
+    margin: 0px;
+}
+
+.heading {
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.para {
+    font-family: Comic Sans MS;
+    font-size: 30px;
+}
+
+.card2 {
+    text-align: center;
+
+}
+
+.bd1 {
+    background-image: url(https://res.cloudinary.com/dn9jpgpfl/image/upload/v1758437124/bd4_ypoyyz.jpg);
+    background-size: cover;
+    height: 700px;
+    width: 1200px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.para3 {
+    font-size: 50px;
+}
+
+.label {
+    text-align: center;
+    margin: 10px;
+}
+
+.text {
+    text-align: center;
+}
+
+.end {
+    text-align: center;
+}
